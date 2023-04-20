@@ -8,7 +8,7 @@
 
 - Psychic - Fizyka
 - Animation -  Animacje
-- Netcode 
+- Netcode metodą komunikacji między dwoma lub więcej komputerami, z których każdy ma uruchomioną tę samą grę.
 - DSPGraph - System Audio
 - DOTS Runtime - instant apps - Google play instant
 
